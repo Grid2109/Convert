@@ -29,3 +29,12 @@ Este é um conversor de moedas simples desenvolvido com HTML, CSS e JavaScript. 
 - Formata o resultado de acordo com a moeda brasileira.
 
 - Exibe a taxa de câmbio usada no cálculo.
+
+  ![Screenshot 2025-03-07 174844](https://github.com/user-attachments/assets/b60ec462-996c-44dc-9cbc-b573f4cb6907)
+
+
+![Screenshot 2025-03-07 174915](https://github.com/user-attachments/assets/e4030e71-f186-4f24-a863-22edb7034531)
+
+
+  ## 🔗 Links do Projeto
+[Ver Projeto Online](https://grid2109-refund.netlify.app/)
