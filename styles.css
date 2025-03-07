@@ -7,14 +7,15 @@
 }
 
 body {
+ overflow-x: hidden;
   background: linear-gradient(
     to right,
     rgb(55, 65, 81),
     rgb(17, 24, 39),
     rgb(0, 0, 0)
   );
-  width: 100vw;
-  height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -99,7 +100,8 @@ img {
   width: 100%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 48em) {
+
     main {
        padding: 1rem;
     }
